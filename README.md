@@ -9,6 +9,6 @@ Just write, in the input.txt file, your desired propmts, one on each line, the r
 ## What are the requirements to run STTIG?
 As always in my proyects, the only requirement to run the code is having python, no matter what graphics card or processor you have, it is processed in the cloud.
 
-STTIG is based in Craiyon, all the credits goes to Boris dayma and Pedro Cuenca
+STTIG is based in Craiyon, all the credits goes to Boris Dayma and Pedro Cuenca
 
 
